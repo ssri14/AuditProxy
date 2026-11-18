@@ -1,0 +1,50 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Native builds, installers and offline dependencies
+/build/
+/dist/
+*.app/
+*.dmg
+*.exe
+/wheels/
+
+# Local credentials and OS/editor files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+.vscode/
+.idea/
+
+# Private datasets, generated code and reports
+/sample_output/
+/analysis.py
+/working_data.csv
+*.csv
+!sample_data/synthetic_government_expenses.csv
+*.tsv
+*.xls
+*.xlsx
+*.sqlite
+*.sqlite3
+*.db
+results.txt
+interpretation.txt
+PRIVATE*
+auditproxy_run_*/
+auditprompt_run_*/
+.auditproxy-*/
+.auditprompt-*/
+*.gguf
+*.safetensors

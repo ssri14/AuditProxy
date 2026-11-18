@@ -1,0 +1,15 @@
+Optional offline installation instructions
+==========================================
+
+Create a subfolder named wheels alongside this file, then populate it with
+PyQt6 and its dependency wheels for the TARGET OS, architecture and Python.
+
+On an equivalent connected computer, from the project root:
+
+  python -m pip download -r requirements.txt -d wheels
+
+Copy the project plus its wheels/ folder to the offline computer.
+Run setup.sh (macOS/Linux) or setup.bat (Windows). The scripts recognize
+wheels automatically and install with --no-index (no internet access).
+
+This project does not bundle PyQt6 binaries. See README.md.

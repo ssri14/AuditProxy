@@ -1,0 +1,56 @@
+payment_date,transaction_number,supplier_name,amount_inr,department,expense_category,approval_status
+2025-04-04,PAY-0001,Aster Supplies,24500,Revenue,Maintenance,Approved
+2025-04-07,PAY-0002,Delta Infrastructure,12100,Revenue,Consultancy,Approved
+2025-04-10,PAY-0003,Sunrise Consulting,24500,Revenue,IT Services,Approved
+2025-04-13,PAY-0004,Greenline IT,19900,Education,IT Services,Approved
+2025-04-16,PAY-0005,Delta Infrastructure,112000,Public Works,Consultancy,Approved
+2025-04-19,PAY-0006,Aster Supplies,35000,Public Works,Transport,Approved
+2025-04-22,PAY-0007,Aster Supplies,26300,Public Works,Transport,Pending
+2025-04-25,PAY-0008,Aster Supplies,24500,Education,Consultancy,Approved
+2025-04-28,PAY-0009,Sunrise Consulting,112000,Education,Transport,Approved
+2025-04-03,PAY-0010,Greenline IT,12100,Health,Stationery,Approved
+2025-04-06,PAY-0042,Aster Supplies,83000,Public Works,Maintenance,Approved
+2025-04-09,PAY-0042,Aster Supplies,15500,Revenue,Consultancy,Approved
+2025-04-12,PAY-0013,Aster Supplies,15500,Public Works,IT Services,Approved
+2025-04-15,PAY-0014,Greenline IT,26300,Health,Equipment,Pending
+2025-04-18,PAY-0015,Eastern Office Goods,72000,Health,Stationery,Approved
+2025-04-21,PAY-0016,Aster Supplies,26300,Education,Stationery,Approved
+2025-04-24,PAY-0017,Greenline IT,72000,Revenue,Consultancy,Approved
+2025-05-27,PAY-0018,Aster Supplies,83000,Education,Maintenance,Approved
+2025-05-02,PAY-0019,Metro Facility Services,72000,Public Works,Stationery,Approved
+2025-05-05,PAY-0020,Sunrise Consulting,8400,Health,Stationery,Approved
+2025-05-08,PAY-0021,Delta Infrastructure,24500,Revenue,Consultancy,Pending
+2025-05-11,PAY-0022,Delta Infrastructure,24500,Health,IT Services,Approved
+2025-05-14,PAY-0023,Eastern Office Goods,83000,Public Works,Consultancy,Approved
+2025-05-17,PAY-0100,Aster Supplies,24500,Education,IT Services,Approved
+2025-05-20,PAY-0100,Delta Infrastructure,8400,Public Works,Stationery,Approved
+2025-05-23,PAY-0026,Metro Facility Services,24500,Public Works,Equipment,Approved
+2025-05-26,PAY-0027,Aster Supplies,35000,Health,Transport,Approved
+2025-05-01,PAY-0028,Aster Supplies,15500,Revenue,Transport,Pending
+2025-05-04,PAY-0029,Aster Supplies,112000,Education,Maintenance,Approved
+2025-05-07,PAY-0030,Aster Supplies,19900,Revenue,IT Services,Approved
+2025-05-10,PAY-0031,Delta Infrastructure,26300,Public Works,Maintenance,Approved
+2025-05-13,PAY-0032,Delta Infrastructure,12100,Revenue,Maintenance,Approved
+2025-05-16,PAY-0033,Greenline IT,72000,Health,Equipment,Approved
+2025-05-19,PAY-0034,Metro Facility Services,112000,Revenue,Stationery,Approved
+2025-05-22,PAY-0035,Aster Supplies,72000,Education,Stationery,Pending
+2025-06-25,PAY-0036,Aster Supplies,19900,Health,Stationery,Approved
+2025-06-28,PAY-0037,Metro Facility Services,83000,Education,Transport,Approved
+2025-06-03,PAY-0038,Sunrise Consulting,112000,Public Works,Maintenance,Approved
+2025-06-06,PAY-0039,Delta Infrastructure,72000,Public Works,Maintenance,Approved
+2025-06-09,PAY-0040,Aster Supplies,26300,Revenue,Equipment,Approved
+2025-06-12,PAY-0041,Greenline IT,12100,Health,Equipment,Approved
+2025-06-15,PAY-0042,Sunrise Consulting,19900,Education,Consultancy,Pending
+2025-06-18,PAY-0043,Aster Supplies,740000,Health,Equipment,Approved
+2025-06-21,PAY-0044,Aster Supplies,112000,Public Works,Maintenance,Approved
+2025-06-24,PAY-0045,Eastern Office Goods,bad-amount,Education,Equipment,Approved
+2025-06-27,PAY-0046,,26300,Revenue,Transport,Approved
+2025-06-02,PAY-0047,Metro Facility Services,35000,Education,Maintenance,Approved
+2025-06-05,PAY-0048,Aster Supplies,26300,Education,Consultancy,Approved
+2025-06-08,PAY-0049,Metro Facility Services,26300,Health,IT Services,Pending
+2025-06-11,PAY-0050,Sunrise Consulting,,Education,Consultancy,Approved
+2025-06-14,PAY-0051,Delta Infrastructure,112000,Public Works,Transport,Approved
+2025-06-17,PAY-0052,Greenline IT,8400,Health,Consultancy,Approved
+2025-05-10,PAY-9991,Demonstration Vendor,48000,Public Works,Maintenance,Approved
+2025-05-10,PAY-9992,Demonstration Vendor,47000,Public Works,Maintenance,Approved
+2025-05-10,PAY-9993,Demonstration Vendor,46000,Public Works,Maintenance,Approved

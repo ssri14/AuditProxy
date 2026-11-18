@@ -1,0 +1,2 @@
+# GUI dependency; core auditing, CSV processing and local Ollama client use stdlib.
+PyQt6>=6.7,<7
